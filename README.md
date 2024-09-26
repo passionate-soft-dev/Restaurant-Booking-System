@@ -45,9 +45,9 @@ To run this project locally, follow these steps:
    http://localhost:4200/
 
 ## Usage
-    - Book a table by selecting the preferred date, time, and party size.
-    - Confirm your reservation and receive a confirmation message.
-    - View your bookings and manage reservations.
+- Book a table by selecting the preferred date, time, and party size.
+- Confirm your reservation and receive a confirmation message.
+- View your bookings and manage reservations.
 
 ## Screenshots
 
