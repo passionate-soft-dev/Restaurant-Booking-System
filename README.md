@@ -1,28 +1,58 @@
-# Hungrynow
+# Restaurant Booking System
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0-next.3.
+A full-featured restaurant booking system built using Angular, Bootstrap, CSS, and HTML.
 
-## Development server
+    ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=white)
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project was generated with Angular CLI version 9.1.0-next.3.
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Real-time Table Booking**: Users can check available tables and book their preferred time slots.
+- **Responsive Design**: The app is fully responsive, providing an optimal experience across mobile, tablet, and desktop devices.
+- **User-Friendly Interface**: Simple and intuitive UI built with Bootstrap to ensure a smooth booking experience.
+- **Dynamic Calendar**: Select and view available dates and times for reservations.
+- **Confirmation System**: Automatic booking confirmation with time and date details.
+  
+## Technologies Used
 
-## Build
+- **Angular**: Frontend framework for building dynamic, single-page applications.
+- **Bootstrap**: For responsive and mobile-first designs.
+- **CSS/HTML**: Styling and markup for the application.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Installation
 
-## Running unit tests
+To run this project locally, follow these steps:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/passionate-soft-dev/Restaurant-Booking-System.git
+   cd Restaurant-Booking-System
 
-## Running end-to-end tests
+2. Install dependencies:
+   ```bash
+   npm install
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+3. Run the development server:
+   ```bash
+   ng serve
 
-## Further help
+4. Open your browser and navigate to:
+   ```bash
+   http://localhost:4200/
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-"# Hungry-now-angular" 
+## Usage
+    - Book a table by selecting the preferred date, time, and party size.
+    - Confirm your reservation and receive a confirmation message.
+    - View your bookings and manage reservations.
+
+## Screenshots
+
+## Contributing
+Feel free to submit issues or pull requests if you find any bugs or have suggestions for new features!
+
+## License
+This project is licensed under the MIT License.     
