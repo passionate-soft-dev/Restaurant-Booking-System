@@ -50,7 +50,9 @@ To run this project locally, follow these steps:
 - View your bookings and manage reservations.
 
 ## Screenshots
+<center>
 ![Peek Contact](src/assets/images/screenshot.png)
+</center>
 ## Contributing
 Feel free to submit issues or pull requests if you find any bugs or have suggestions for new features!
 
